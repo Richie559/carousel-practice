@@ -1,0 +1,55 @@
+.jumbotron{
+    background-image: url(/bootstrap-bolierplate/img/dogtreats.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.speakerCardWrapper{
+    padding: 0px 100px; 
+}
+.speakerCard{
+    padding: 60px;
+    margin: 0px;
+}
+
+.img-thumbnail{
+    border: none !important;
+    width: 200px;
+}
+.space{
+    padding: 2rem;
+}
+.container-fluid{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.row{
+    margin: 0px;
+}
+.shelter{
+    height: 30rem;
+}
+.p-4{
+    padding: 0px !important;
+}
+.copyright{
+    margin: 0px !important;
+}
+.nav-link{
+    color: black !important;
+}
+.navbar-brand{
+    color: black;
+}
+.nav-link{
+    color: black !important;
+}
+.navbar-brand{
+    color: black;
+}
+.nav-link:hover{
+    color: pink !important;
+}
+.navbar-brand:hover{
+    color: pink;
+}
